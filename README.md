@@ -3,7 +3,8 @@
 Building chat with CSV file ChatBOT which uses latest advances in Generative AI with the help of PandasAI, a new library that helps you chat with your CSV Files. 
 
 First create your new virtual environment using this command in your projects folder
->>python -m venv venv 
+>>python -m venv venv
+
 You can give any name to your virtual environment I have given venv in my case 
 
 To make this project first install all the dependencies which I have mentioned in my requirements.txt file by typing in project folders command prompt 
