@@ -1,0 +1,7 @@
+streamlit 
+pandasai
+python-dotenv
+bs4 
+BeautifulSoup4
+sqlalchemy
+yfinance
